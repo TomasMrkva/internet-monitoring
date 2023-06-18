@@ -1,2 +1,1 @@
-data/postgres/*
-!data/postgres/.gitkeep
+data/postgres
